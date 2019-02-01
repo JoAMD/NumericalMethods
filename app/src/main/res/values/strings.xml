@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Bisection Method</string>
+    <string name="clear">C</string>
+    <string name="backspace">⌫</string>
+    <string name="divide">÷</string>
+    <string name="sqrt">√x</string>
+    <string name="cuberoot">\u221B\x</string>
+    <string name="square">x²</string>
+    <string name="cube">x\u00B3</string>
+    <string name="tenpow">10\u207F</string>
+    <string name="sininv">sin\u207B\u00B9</string>
+    <string name="cosinv">cos\u207B\u00B9\x</string>
+    <string name="taninv">tan\u207B\u00B9\x</string>
+    <string name="posneg">±</string>
+    <string name="arrow">↑</string>
+    <string name="xpown">xⁿ</string>
+    <string name="epown">eⁿ</string>
+    <string name="pi">π</string>
+    <string name="openBracket">(</string>
+    <string name="closeBracket">)</string>
+    <string name="history">History</string>
+
+    <string name="mode1">Degree</string>
+    <string name="mode2">Radian</string>
+    <string name="toggle">SWITCH</string>
+    <string name="sin">sinx</string>
+    <string name="cos">cosx</string>
+    <string name="tan">tanx</string>
+    <string name="naturalLog">lnx</string>
+    <string name="hyperbolicSine">sinhx</string>
+    <string name="hyperbolicCosine">coshx</string>
+    <string name="hyperbolicTan">tanhx</string>
+    <string name="log">logx</string>
+    <string name="Mod">%</string>
+    <string name="inverse">1/x</string>
+    <string name="factorial" >x!</string>>
+</resources>
